@@ -11,7 +11,7 @@ function Home() {
         className="profile-image"
       />
       <h1>Marc Galang</h1>
-      <p className="title">Software Architect</p>
+      <p className="title">Software Engineer</p>
 
       <div className="social-links">
         <a href="https://github.com/mgalang" target="_blank" rel="noopener noreferrer">
@@ -24,10 +24,6 @@ function Home() {
           <FontAwesomeIcon icon={faInstagram} />
         </a>
       </div>
-
-      <Link to="/about" className="about-link">
-        About Me
-      </Link>
     </div>
   );
 }
