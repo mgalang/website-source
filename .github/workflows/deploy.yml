@@ -3,7 +3,7 @@ name: Build and Deploy Vite Project
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
@@ -32,6 +32,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           external_repository: mgalang/mgalang.github.io
-          publish_branch: main
+          publish_branch: master
           user_name: github-actions[bot]
           user_email: github-actions[bot]@users.noreply.github.com
