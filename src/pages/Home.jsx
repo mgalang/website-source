@@ -10,7 +10,7 @@ function Home() {
         className="profile-image"
       />
       <h1>Marc Galang</h1>
-      <p className="title">Software Engineer</p>
+      <p className="title">Senior Software Engineer</p>
 
       <div className="social-links">
         <a href="https://github.com/mgalang" target="_blank" rel="noopener noreferrer">
