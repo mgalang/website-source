@@ -19,7 +19,7 @@ function Home() {
         <a href="https://www.linkedin.com/in/marcgalang" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
-        <a href="https://www.instagram.com/marcgalang_/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/marcgggg_/" target="_blank" rel="noopener noreferrer">
           <FontAwesomeIcon icon={faInstagram} />
         </a>
       </div>
